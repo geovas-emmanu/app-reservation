@@ -1,12 +1,12 @@
 # app-reservation
 # Nom de l'application
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : [Aaron, Geovanni, Etienne]
 
 ## Le problème
 
-- Problème : ...
-- Persona : ...
+- Problème : Materiel à reserver
+- Persona : 
 
 ## La solution
 
