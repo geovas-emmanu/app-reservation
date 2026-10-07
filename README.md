@@ -5,13 +5,13 @@ Projet conçu en équipe avec : [Aaron, Geovanni, Etienne]
 
 ## Le problème
 
-- Problème : Materiel à reserver
-- Persona : 
+- Problème : Les étudiants trouvent confus et long le systeme de réservation de materiel.
+- Persona : Les étudiants de TIM, c'est qu'ils veulent, c'est reduire le nombre de pas à faire, pour réserver le materiel, ce qui leur frustre est de réserver 48 heures avant
 
 ## La solution
 
-- Proposition de valeur : ...
-- Fonctionnalités du MVP :
+- Proposition de valeur : Modificier directement les reservations.
+- Fonctionnalités du MVP : 
     - En tant que ..., je veux ... afin de ...
 
 ## L'expérience
