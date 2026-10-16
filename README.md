@@ -10,9 +10,9 @@ Projet conçu en équipe avec : [Aaron, Geovanni, Etienne]
 
 ## La solution
 
-- Proposition de valeur : Modificier directement les reservations.
+- Proposition de valeur : Modificier directement les reservations sur tout appareil.
 - Fonctionnalités du MVP : 
-    - En tant que ..., je veux ... afin de ...
+    - En tant que étudiant, je veux simplicier le systeme de reservation de materiel afin de aider aux autres étudiants, à avoir une systeme de reservation de materiel plus simple et rapide. 
 
 ## L'expérience
 
@@ -26,11 +26,11 @@ Projet conçu en équipe avec : [Aaron, Geovanni, Etienne]
 ## Le plan de développement
 
 - Technologies et hébergement : ...
-- Équipe : ...
-- Échéancier : ...
+- Équipe : Gestionaire de projet, Design UX/UI, ,testers
+- Échéancier : 
 - Budget : ... $
-- Mesures du succès : ...
+- Mesures du succès : Reservations plus simples et rapides, utilisateurs moins pressés
 
 ## La demande
 
-Nous demandons ... $ pour ...
+Nous demandons . $ pour ...
